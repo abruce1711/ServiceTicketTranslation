@@ -17,7 +17,7 @@ I used for scheduling mailbox scans and the Google Translate library to provide 
 
 ## Technologies Used
 
- - [Hangfire](https://www.hangfire.io/): Employed for efficient scheduling of mailbox scans, ensuring prompt handling of incoming emails.
+- [Hangfire](https://www.hangfire.io/): Employed for efficient scheduling of mailbox scans, ensuring prompt handling of incoming emails.
 
- - [Google Translate Library](https://cloud.google.com/dotnet/docs/reference/Google.Cloud.Translate.V3/latest): Integrated to provide accurate and reliable translations, bridging language barriers effectively.
+- [Google Translate Library](https://cloud.google.com/dotnet/docs/reference/Google.Cloud.Translate.V3/latest): Integrated to provide accurate and reliable translations, bridging language barriers effectively.
 
